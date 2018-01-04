@@ -1,0 +1,5 @@
+insert into user(id, username, password, avatar, email, description) values(1, 'Ricky', 'pwd', 'avatar', 'ricky@tianmaying.com', 'Ricky blog');
+insert into blog(title, content, author, createdTime) values('第一篇博客', '天码营秉承让技术学习更加高效和便捷的使命，致力于打造新一代的技术学习服务平台，提供创新并且专业的内容、工具与服务，帮助学习者与从业者实现个人价值', 1, '2017-01-01 12:12:12');
+insert into blog(title, content, author, createdTime) values('第二篇博客', '天码营秉承让技术学习更加高效和便捷的使命，致力于打造新一代的技术学习服务平台，提供创新并且专业的内容、工具与服务，帮助学习者与从业者实现个人价值', 1, '2017-01-01 12:12:12');
+insert into blog(title, content, author, createdTime) values('第三篇博客', '天码营秉承让技术学习更加高效和便捷的使命，致力于打造新一代的技术学习服务平台，提供创新并且专业的内容、工具与服务，帮助学习者与从业者实现个人价值', 1, '2017-01-01 12:12:12');
+insert into blog(title, content, author, createdTime) values('第四篇博客', '天码营秉承让技术学习更加高效和便捷的使命，致力于打造新一代的技术学习服务平台，提供创新并且专业的内容、工具与服务，帮助学习者与从业者实现个人价值', 1, '2017-01-01 12:12:12');
